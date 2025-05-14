@@ -23,4 +23,4 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenyzzn&show_icons=true&locale=en&layout=compact" alt="chenyzzn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenyzzn&" alt="chenyzzn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenyzzn&show_icons=true&locale=en" alt="chenyzzn" /></p>
