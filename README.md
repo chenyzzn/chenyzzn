@@ -1,11 +1,4 @@
-<h1 align="center">Hi, I'm YU-CHEN CHEN</h1>
-<h3 align="center">A passionate CE Student & Engineer from Taiwan</h3>
 
-- 🔭 I’m currently working on **CRNN detection**
-
-- 🌱 I’m currently learning **AI detection & Automation ROS**
-
-- 🤝 I’m looking for **2026 Intern**
 
 <h3 align="left">Languages and Tools:</h3>
 
